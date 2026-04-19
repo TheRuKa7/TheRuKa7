@@ -1,8 +1,8 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Rushil%20Kaul&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Product%20Manager%20%7C%20Building%20Pathforge&descSize=16&descAlignY=52" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Rushil%20Kaul&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Product%20Manager%20%7C%20Building%20in%20Public&descSize=16&descAlignY=52" />
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=70&lines=Product+Manager+%E2%80%A2+Builder+%E2%80%A2+Shipper;Building+Pathforge+%E2%80%94+AI+Career+Intelligence;DevTools+%2F+AI+%2F+B2B+SaaS;PM+that+ships+code+%F0%9F%9A%80)](https://rushilkaul.com)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=70&lines=Product+Manager+%E2%80%A2+Builder+%E2%80%A2+Shipper;Building+AI+Products+%E2%80%A2+Shipping+Code;DevTools+%2F+AI+%2F+B2B+SaaS;PM+that+ships+code+%F0%9F%9A%80)](https://rushilkaul.com)
 
 </div>
 
