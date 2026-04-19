@@ -1,8 +1,8 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Rushil%20Kaul&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Product%20Manager%20%7C%20Building%20in%20Public&descSize=16&descAlignY=52" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Rushil%20Kaul&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Product%20Manager%20%7C%20Builder%20%E2%80%A2%20Shipper&descSize=16&descAlignY=52" />
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=70&lines=Product+Manager+%E2%80%A2+Builder+%E2%80%A2+Shipper;Building+AI+Products+%E2%80%A2+Shipping+Code;DevTools+%2F+AI+%2F+B2B+SaaS;PM+that+ships+code+%F0%9F%9A%80)](https://rushilkaul.com)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=70&lines=Product+Manager+%E2%80%A2+Builder+%E2%80%A2+Shipper;B2B+SaaS+%E2%80%A2+Developer+Tools+%E2%80%A2+AI%2FML;Engineer+turned+PM+%E2%80%94+I+read+code+%26+write+specs)](https://rushilkaul.com)
 
 </div>
 
@@ -13,13 +13,13 @@
 ```yaml
 name: Rushil Kaul
 role: Product Manager
-building: Pathforge — AI-powered career intelligence platform
-focus: DevTools, AI/ML, B2B SaaS
-location: India
+focus: B2B SaaS, Developer Tools, AI/ML Products
+background: BE-MBA (Computer Engineering + Business Analytics), Thapar Institute
+location: Delhi NCR, India
 portfolio: rushilkaul.com
 ```
 
-I'm a PM who codes. Currently building **[Pathforge](https://github.com/TheRuKa7/pathforge-teaser)** — a platform that closes the loop between learning, preparing, and landing jobs in tech. I believe the best PMs understand the systems they're building, so I ship code alongside specs.
+Product Manager with engineering roots. I've scaled products from zero to $1M ARR, led cross-functional teams of 50, and shipped 100+ tickets to production. I build agentic AI workflows, write PRDs that engineers actually like, and believe the best PMs can read every line of code their team writes.
 
 ---
 
@@ -132,7 +132,7 @@ Latest activity will be auto-injected by GitHub Actions.
 <div align="center">
 
 [![Portfolio](https://img.shields.io/badge/rushilkaul.com-000000?style=for-the-badge&logo=safari&logoColor=white)](https://rushilkaul.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rushilkaul)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/RushilK)
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/TheRuKa7)
 [![Email](https://img.shields.io/badge/rushil@rushilkaul.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rushil@rushilkaul.com)
 
