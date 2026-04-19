@@ -108,7 +108,13 @@ I'm a PM who codes. Currently building **[Pathforge](https://github.com/TheRuKa7
 ### `> wakatime_stats`
 
 <!--START_SECTION:waka-->
-Wakatime stats will appear here after the GitHub Action runs.
+
+```txt
+Total Time: 0 secs
+
+No activity tracked
+```
+
 <!--END_SECTION:waka-->
 
 ---
