@@ -110,14 +110,16 @@ Product Manager with engineering roots. I've scaled products from zero to $1M AR
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 2 hrs 54 mins
+Total Time: 17 hrs 21 mins
 
-TypeScript   1 hr 39 mins          ██████████░░░░░░░░░░░░░░░   40.03 %
-Other        1 hr 13 mins          ███████▒░░░░░░░░░░░░░░░░░   29.66 %
-CSS          46 mins               ████▓░░░░░░░░░░░░░░░░░░░░   18.62 %
-Markdown     25 mins               ██▓░░░░░░░░░░░░░░░░░░░░░░   10.11 %
-JSON         2 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.92 %
-Text         1 min                 ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.67 %
+Markdown       5 hrs 10 mins         ██████▓░░░░░░░░░░░░░░░░░░   26.83 %
+Python         4 hrs 17 mins         █████▓░░░░░░░░░░░░░░░░░░░   22.30 %
+TypeScript     3 hrs 22 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.48 %
+Other          1 hr 54 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.90 %
+Image (png)    1 hr 4 mins           █▒░░░░░░░░░░░░░░░░░░░░░░░   05.55 %
+Text           54 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   04.75 %
+JSON           43 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   03.75 %
+YAML           23 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.99 %
 ```
 
 <!--END_SECTION:waka-->
