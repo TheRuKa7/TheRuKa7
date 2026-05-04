@@ -110,16 +110,16 @@ Product Manager with engineering roots. I've scaled products from zero to $1M AR
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 17 hrs 21 mins
+Total Time: 2 hrs 59 mins
 
-Markdown       5 hrs 10 mins         ██████▓░░░░░░░░░░░░░░░░░░   26.83 %
-Python         4 hrs 17 mins         █████▓░░░░░░░░░░░░░░░░░░░   22.30 %
-TypeScript     3 hrs 22 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.48 %
-Other          1 hr 54 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.90 %
-Image (png)    1 hr 4 mins           █▒░░░░░░░░░░░░░░░░░░░░░░░   05.55 %
-Text           54 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   04.75 %
-JSON           43 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   03.75 %
-YAML           23 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.99 %
+Markdown      55 mins               ███████▒░░░░░░░░░░░░░░░░░   28.76 %
+TypeScript    32 mins               ████▒░░░░░░░░░░░░░░░░░░░░   16.80 %
+Text          21 mins               ███░░░░░░░░░░░░░░░░░░░░░░   11.42 %
+JavaScript    17 mins               ██▒░░░░░░░░░░░░░░░░░░░░░░   09.01 %
+Other         12 mins               █▓░░░░░░░░░░░░░░░░░░░░░░░   06.38 %
+Python        10 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   05.39 %
+PowerShell    9 mins                █▒░░░░░░░░░░░░░░░░░░░░░░░   05.22 %
+Image (png)   9 mins                █▒░░░░░░░░░░░░░░░░░░░░░░░   04.73 %
 ```
 
 <!--END_SECTION:waka-->
