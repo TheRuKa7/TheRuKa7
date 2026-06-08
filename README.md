@@ -110,9 +110,16 @@ Product Manager with engineering roots. I've scaled products from zero to $1M AR
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 0 secs
+Total Time: 40 mins
 
-No activity tracked
+Markdown     21 mins               █████████████▒░░░░░░░░░░░   52.83 %
+Text         8 mins                █████▒░░░░░░░░░░░░░░░░░░░   20.93 %
+YAML         4 mins                ██▓░░░░░░░░░░░░░░░░░░░░░░   11.01 %
+JSON         2 mins                █▒░░░░░░░░░░░░░░░░░░░░░░░   05.14 %
+Git Config   2 mins                █▒░░░░░░░░░░░░░░░░░░░░░░░   05.06 %
+Python       0 secs                ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.37 %
+Other        0 secs                ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.25 %
+TOML         0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 %
 ```
 
 <!--END_SECTION:waka-->
